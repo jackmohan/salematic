@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Axel Richter</Author>
+  <LastAuthor>ADMIN</LastAuthor>
+  <Created>2025-11-07T07:52:50Z</Created>
+  <LastSaved>2025-11-07T08:03:08Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7425</WindowHeight>
+  <WindowWidth>20490</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#0066CC" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <NumberFormat/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="chiller_entry_sample_exl">
+  <Table ss:ExpandedColumnCount="9" ss:ExpandedRowCount="2" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="75.75" ss:Span="1"/>
+   <Column ss:Index="3" ss:Width="59.25"/>
+   <Column ss:Width="56.25"/>
+   <Column ss:Width="74.25"/>
+   <Column ss:Width="62.25"/>
+   <Column ss:Width="93.75"/>
+   <Column ss:Width="89.25"/>
+   <Column ss:Width="39"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Chiller Serial No</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Chiller QR Code</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Chiller Make</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Chiller Type</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Chiller Capacity</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Chiller Model</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Warranty Start Date</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Warranty End Date</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Amount</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SN123456789</Data></Cell>
+    <Cell><Data ss:Type="String">CHL-2025-001</Data></Cell>
+    <Cell><Data ss:Type="String">   Blue Star</Data></Cell>
+    <Cell><Data ss:Type="String">   Frozen</Data></Cell>
+    <Cell><Data ss:Type="String">100</Data></Cell>
+    <Cell><Data ss:Type="String">     Carrier 30XA</Data></Cell>
+    <Cell><Data ss:Type="Number">5082025</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">5082025</Data></Cell>
+    <Cell><Data ss:Type="String">30000</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Zoom>115</Zoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>12</ActiveRow>
+     <ActiveCol>8</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

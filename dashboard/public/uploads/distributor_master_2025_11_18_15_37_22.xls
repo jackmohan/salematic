@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7545</WindowHeight>
+  <WindowWidth>20490</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#0066CC" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Excel_Distributor_Master_2025No">
+  <Table ss:ExpandedColumnCount="62" ss:ExpandedRowCount="2" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">s_no</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">company_name</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_code</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">distribution_type</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">owner_name</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">contact_no1</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">contact_no2</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">email_id</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">address</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">purchase_invoice_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">purchase_order_approval_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">enable_po_warehouse_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">joining_date</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">created_emp_name</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">company_price_group</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">status</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">billing_name</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">gst_no</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">billing_address</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">agreement_sign</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">sign_date</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">cold_room</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">square_feet</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">plus_temp</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">minus_temp</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">distributor_vehicle</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">reefer_vehicle_count</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">non_reefer_vehicle_count</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">chiller_outlet</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">total_outlet</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">manpower</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">group_name</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">depot_name</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">pincode</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">claim_submission_validation_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">claim_submission_validation_month</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_pur_order_price_show_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_distributor_type</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_billing_city</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_billing_state_name</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_billing_pincode</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_billing_contact_no</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_billing_address2</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">state_name</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">market_name</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">zone_name</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_mt_margin_difference_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">mt_margin_group_name</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_enable_grn_mandatory_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_grn_confirmation_days</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_profit_loss_report_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_pi_product_grn_mandatory_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_pi_asset_grn_mandatory_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_mrp_price_edit_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_distomatic_outlet_price_group_assign_type</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_asset_transfer_grn_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_asset_transfer_confirmation_days</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_max_asset_holding_average_qty</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_excess_asset_handover_due_cycle</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_sec_sales_return_outlet_loc_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_sal_return_comp_level_photo_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">dist_sal_return_shelf_life_enable_ind</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell class="  "><Data ss:Type="String">1</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">vijay company 12</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">223</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Ice cream</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">123</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">7777777777</Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String">a</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">2024-05-10</Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">123123</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">33AALCM3198B1ZJ</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">a</Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String">2</Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String">CEMENT</Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String">444444</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">2</Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Customer</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">a</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Tamil&#160;Nadu</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">555555</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">9999999999</Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String"> ,AP,ERODE,H STATE,KERALA,TAMILNADU,TAMIL NADU1,TAMIL NADU2</Data></Cell>
+    <Cell class="  "><Data ss:Type="String"> ,AP MARKET,H MARKET,MUMBAI MARKET,REST OF KARNATAKA,REST OF TAMIL NADU1,ROTN2,SRINAGAR</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">1,5,AP ZONE,BALLARI,BHAVANI,CBE,ERODE,ERODE5,H ZONE,TRICHY,WEST ZONE</Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Astar</Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Distributor Own Price Group</Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,322 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8400</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#0066CC" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Excel_Item_Master_2025Sep20_145">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase"
+    ss:RefersTo="=Excel_Item_Master_2025Sep20_145!R1C1:R615C45" ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="45" ss:ExpandedRowCount="4" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.4">
+   <Column ss:Width="45"/>
+   <Column ss:Width="60"/>
+   <Column ss:Width="82.8"/>
+   <Column ss:Width="84"/>
+   <Column ss:Width="63.599999999999994"/>
+   <Column ss:Width="163.79999999999998"/>
+   <Column ss:Width="48.6"/>
+   <Column ss:Width="124.2" ss:Span="1"/>
+   <Column ss:Index="10" ss:Width="73.199999999999989"/>
+   <Column ss:Width="74.400000000000006"/>
+   <Column ss:Width="60"/>
+   <Column ss:Width="30"/>
+   <Column ss:Width="45"/>
+   <Column ss:Width="66.600000000000009"/>
+   <Column ss:Width="112.8"/>
+   <Column ss:Width="57"/>
+   <Column ss:Width="73.199999999999989"/>
+   <Column ss:Width="84"/>
+   <Column ss:Width="127.19999999999999"/>
+   <Column ss:Width="149.4"/>
+   <Column ss:Width="146.39999999999998"/>
+   <Column ss:Width="168.60000000000002"/>
+   <Column ss:Width="38.4"/>
+   <Column ss:Width="41.4"/>
+   <Column ss:Width="50.4"/>
+   <Column ss:Width="129.6"/>
+   <Column ss:Width="87.6"/>
+   <Column ss:Width="138.6"/>
+   <Column ss:Width="147"/>
+   <Column ss:Width="120"/>
+   <Column ss:Width="130.80000000000001"/>
+   <Column ss:Width="87"/>
+   <Column ss:Width="122.39999999999999"/>
+   <Column ss:Width="165"/>
+   <Column ss:Width="163.19999999999999"/>
+   <Column ss:Width="94.2"/>
+   <Column ss:Width="176.4"/>
+   <Column ss:Width="198.6"/>
+   <Column ss:Width="192"/>
+   <Column ss:Width="144.6" ss:Span="1"/>
+   <Column ss:Index="43" ss:Width="207"/>
+   <Column ss:Width="187.8"/>
+   <Column ss:Width="157.80000000000001"/>
+   <Row>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">serial_no</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">brand_name</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">product_category</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">product_sub_type</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">item_code</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">item_name</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">hsn_code</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">print_name</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">display_name</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">gst_percentage</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">purchase_price</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">selling_price</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">mrp</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">unit_type</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">package_type</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">no_of_units_in_package</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">weight_type</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">unit_net_weight</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">unit_gross_weight</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">sales_unit_type_enable_ind</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">sales_package_type_enable_ind</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">purchase_unit_type_enable_ind</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">purchase_package_type_enable_ind</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">self_life</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">barcode</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">sort_order</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">purchase_order_enable_ind</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">return_allowed_ind</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">claim_expiry_return_allow_ind</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">claim_damage_return_allow_ind</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">package_type_net_weight</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">package_type_gross_weight</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">display_item_code</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">category_price_range_ind</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">category_price_range_max_amount</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">category_price_range_min_amount</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">category_status_ind</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">category_unit_based_uom_enable_ind</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">category_package_based_uom_enable_ind</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">category_tertiary_based_uom_enable_ind</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">category_product_tertiary_type</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">category_package_per_tertiary</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">category_purchase_tertiary_type_enable_ind</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">category_sales_tertiary_type_enable_ind</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">category_tertiary_type_net_weight</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell class="  "><Data ss:Type="String">216</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">Magiva</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">BUTTER</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">Ambinent</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">COKBUT100</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">COOKING BUTTER 100GM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">123</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"> COOKING BUTTER 100GM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"> COOKING BUTTER 100GM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">5.00</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">20</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">25</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">30.00</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">PACK</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">Bag</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">3</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">gm</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1.000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1.000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">2</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">3.000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">3.000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">COKBUT100</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">0.00</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">0.00</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">Bundle</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">3</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell class="  "><Data ss:Type="String">218</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">Magiva</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">BUTTER</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">Ambinent</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">COKBUT200</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">COOKING BUTTER 200GM (Special)</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"> 1312213</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="Number">18</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">10</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">11</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">12.00</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">Pcs</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">box</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">10</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">KG</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">0.200</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">0.200</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">2.000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">2.000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">COKBUT200</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">0.00</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">0.00</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell class="  "><Data ss:Type="String">219</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">Magiva</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">BUTTER</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">Ambinent</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">COBUT500</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">COOKING BUTTER 500GM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">2306</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">5.00</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">50</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">55</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">70.00</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">Pcs</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">box</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">10</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">Pcs</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">0.000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">0.000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">0.000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">0.000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">COBUT500</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">0.00</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">0.00</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String"></Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>8</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

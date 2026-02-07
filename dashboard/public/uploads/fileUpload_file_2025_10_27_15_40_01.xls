@@ -1,0 +1,482 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>4815</WindowHeight>
+  <WindowWidth>15135</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#0066CC" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Excel_Employee_master_2025Oct27">
+  <Table ss:ExpandedColumnCount="105" ss:ExpandedRowCount="3" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="26.25"/>
+   <Column ss:Width="86.25"/>
+   <Column ss:Width="77.25"/>
+   <Column ss:Width="90.75"/>
+   <Column ss:Width="97.5"/>
+   <Column ss:Width="72.75"/>
+   <Column ss:Width="92.25"/>
+   <Column ss:Width="105"/>
+   <Column ss:Width="92.25"/>
+   <Column ss:Width="124.5"/>
+   <Column ss:Width="132"/>
+   <Column ss:Width="136.5"/>
+   <Column ss:Width="84"/>
+   <Column ss:Width="130.5"/>
+   <Column ss:Width="125.25"/>
+   <Column ss:Width="132.75"/>
+   <Column ss:Width="78"/>
+   <Column ss:Width="130.5"/>
+   <Column ss:Width="179.25"/>
+   <Column ss:Width="34.5"/>
+   <Column ss:Width="81.75"/>
+   <Column ss:Width="154.5"/>
+   <Column ss:Width="168"/>
+   <Column ss:Width="219.75"/>
+   <Column ss:Width="239.25"/>
+   <Column ss:Width="228.75"/>
+   <Column ss:Width="234.75"/>
+   <Column ss:Width="246"/>
+   <Column ss:Width="249"/>
+   <Column ss:Width="183.75"/>
+   <Column ss:Width="192"/>
+   <Column ss:Width="213"/>
+   <Column ss:Width="150"/>
+   <Column ss:Width="218.25"/>
+   <Column ss:Width="168.75"/>
+   <Column ss:Width="203.25"/>
+   <Column ss:Width="219.75"/>
+   <Column ss:Width="101.25"/>
+   <Column ss:Width="128.25"/>
+   <Column ss:Width="183.75"/>
+   <Column ss:Width="198"/>
+   <Column ss:Width="153.75"/>
+   <Column ss:Width="180"/>
+   <Column ss:Width="98.25"/>
+   <Column ss:Width="150"/>
+   <Column ss:Width="156.75"/>
+   <Column ss:Width="181.5"/>
+   <Column ss:Width="118.5"/>
+   <Column ss:Width="86.25"/>
+   <Column ss:Width="123"/>
+   <Column ss:Width="168"/>
+   <Column ss:Width="182.25"/>
+   <Column ss:Width="208.5"/>
+   <Column ss:Width="120"/>
+   <Column ss:Width="135.75"/>
+   <Column ss:Width="114.75"/>
+   <Column ss:Width="162.75"/>
+   <Column ss:Width="159"/>
+   <Column ss:Width="120.75"/>
+   <Column ss:Width="159.75"/>
+   <Column ss:Width="179.25"/>
+   <Column ss:Width="151.5"/>
+   <Column ss:Width="186"/>
+   <Column ss:Width="216.75"/>
+   <Column ss:Width="123"/>
+   <Column ss:Width="150"/>
+   <Column ss:Width="222.75"/>
+   <Column ss:Width="192"/>
+   <Column ss:Width="198"/>
+   <Column ss:Width="226.5"/>
+   <Column ss:Width="224.25"/>
+   <Column ss:Width="210"/>
+   <Column ss:Width="201.75"/>
+   <Column ss:Width="217.5"/>
+   <Column ss:Width="210"/>
+   <Column ss:Width="127.5"/>
+   <Column ss:Width="156.75"/>
+   <Column ss:Width="249"/>
+   <Column ss:Width="175.5"/>
+   <Column ss:Width="146.25"/>
+   <Column ss:Width="181.5" ss:Span="1"/>
+   <Column ss:Index="83" ss:Width="173.25"/>
+   <Column ss:Width="184.5"/>
+   <Column ss:Width="154.5"/>
+   <Column ss:Width="197.25"/>
+   <Column ss:Width="188.25"/>
+   <Column ss:Width="186"/>
+   <Column ss:Width="159"/>
+   <Column ss:Width="206.25"/>
+   <Column ss:Width="211.5"/>
+   <Column ss:Width="207.75"/>
+   <Column ss:Width="252"/>
+   <Column ss:Width="129"/>
+   <Column ss:Width="135.75"/>
+   <Column ss:Width="180"/>
+   <Column ss:Width="138"/>
+   <Column ss:Width="145.5"/>
+   <Column ss:Width="151.5"/>
+   <Column ss:Width="150"/>
+   <Column ss:Width="173.25"/>
+   <Column ss:Width="128.25"/>
+   <Column ss:Width="158.25"/>
+   <Column ss:Width="163.5"/>
+   <Column ss:Width="181.5"/>
+   <Row>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">s_no</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">employee_login_id</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">employee_name</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">cluster_designation</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">hr_designation</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">reporting_name</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">primary_contact_no</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">secondary_contact_no</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">email_id</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">address</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">primary_sales_order_access</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">po_approve_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">leave_approve_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">sm_on_off_boarding_access</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">hr_on_off_boarding_access</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">mis_on_off_boarding_access</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">erp_showing_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">show_receipt_mismatch_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">enable_receipt_mismatch_approval_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">status</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_joining_date</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_chiller_serial_no_update_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_mt_margin_screen_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_outlet_master_excel_download_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_distributer_master_excel_download_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_product_master_excel_download_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_outlet_master_chiller_details_add_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_outlet_master_chiller_details_delete_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_outlet_master_chiller_details_update_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_chiller_request_create_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_chiller_request_approval_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_chiller_request_deployement_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_chiller_delivery_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_primary_sales_invoice_cancel_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">margin_difference_report_display_list</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_po_additional_qty_planning_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_po_additional_planning_import_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_pop_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_pop_sync_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_primary_sales_invoice_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_sales_order_inside_shop_location_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_outlet_location_movable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_assign_chiller_service_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_pjp_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_outlet_mapping_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_outlet_visit_edit_enabled_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_order_based_on_available_qty_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_sales_executive_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_promoter_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">outlet_universe_survey_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_allowance_approval_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_allowance_team_entry_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_allowance_payment_access_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_pjp_edit_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_selfi_photo_enabled_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_punchin_option_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_allow_other_task_punchin_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_punchout_photo_enabled_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_punchout_option_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_outlet_visit_photo_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_distributor_visit_photo_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_promoter_photo_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_distributor_on_boarding_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_distributor_onboarding_create_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">enable_claim_approval_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_claim_special_approval_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_enable_asset_master_creation_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_enable_asset_dispatch_approval_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_enable_asset_mismatch_approval_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_asset_adjustment_entry_create_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_asset_opening_balance_create_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_asset_transfer_entry_create_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_asset_scrap_entry_create_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_asset_purchase_entry_create_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_asset_scrap_entry_approval_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_mt_offers_approve_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_competitor_price_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_chiller_approval_configuration_create_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_merchandise_activity_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_merchandise_approval_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_so_apply_scheme_mandatory_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_po_apply_scheme_mandatory_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_beat_outlet_transfer_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_comp_price_group_update_access</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">it_admin_on_off_boarding_access</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_employee_level_odometer_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_outlet_visit_distance_range_in_mtrs</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_punchin_based_allowance_add_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_system_punchout_policy_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_allowance_submit_before_punchout_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_service_installation_approval_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_service_and_install_module_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_enable_restriction_po_creation_based_on_grn_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_login_web_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_inside_dist_location_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_dist_visit_distance_range_in_mtrs</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_login_device_type_name</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_dist_location_movable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_otp_count_reset_option_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_beat_limitation_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_debit_note_approval_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_secure_login_type_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_alert_notification_access_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_otp_count_reset_option_name</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">emp_secondary_sales_order_reject_ind</Data></Cell>
+   </Row>
+   <Row>
+    <Cell class="  "><Data ss:Type="String">2</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">3332</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Kavin</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Service Engineer</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Area Sales Manager</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Md</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">8529637410</Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String">kavin@gmail.com</Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Individual User</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">None</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Active</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">1932-03-15</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">All</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Specific User</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Anywhere</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Default - No Action</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">None</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No Access</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No Access</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No Access</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Full Access</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Full Access</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Multi Device</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Not Applicable</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">NA</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell class="  "><Data ss:Type="String">3</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">4000</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Md</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Md</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Md</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Ch_Kumar</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">6955421542</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">8282828282</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">mrmd@gmail.com</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">159/1_,_Default_Building</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">All Data</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">ASM - Assigned Distributors</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Active</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">2023-04-12</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">All</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">All User</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Anywhere</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Default - No Action</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Financial Approver</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Full Access</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Mandatory</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Mandatory</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No Access</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Full Access</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Multi Device</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">No</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">All</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">All</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>91</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

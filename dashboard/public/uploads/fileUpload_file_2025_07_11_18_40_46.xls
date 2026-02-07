@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Axel Richter</Author>
+  <Created>2025-07-11T13:09:58Z</Created>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10005</WindowHeight>
+  <WindowWidth>10005</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#0066CC" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="pjp">
+  <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="4" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">date</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">employee_name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">employee_code</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">distributor_name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">distributor_code</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">beat_name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">beat_code</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">type</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">outlet_name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">outlet_code</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">18-09-2023</Data></Cell>
+    <Cell><Data ss:Type="String">A1 Employeee</Data></Cell>
+    <Cell><Data ss:Type="String">emp_111</Data></Cell>
+    <Cell><Data ss:Type="String">Magiva</Data></Cell>
+    <Cell><Data ss:Type="String">dist_12345</Data></Cell>
+    <Cell><Data ss:Type="String">Erode</Data></Cell>
+    <Cell><Data ss:Type="String">beat_123</Data></Cell>
+    <Cell><Data ss:Type="String">beat_based</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">19-09-2023</Data></Cell>
+    <Cell><Data ss:Type="String">A1 Employeee</Data></Cell>
+    <Cell><Data ss:Type="String">emp_111</Data></Cell>
+    <Cell><Data ss:Type="String">mmd</Data></Cell>
+    <Cell><Data ss:Type="String">dist_12346</Data></Cell>
+    <Cell><Data ss:Type="String">Bhavani</Data></Cell>
+    <Cell><Data ss:Type="String">beat_124</Data></Cell>
+    <Cell><Data ss:Type="String">outlet_based</Data></Cell>
+    <Cell><Data ss:Type="String">Rukmini Stores</Data></Cell>
+    <Cell><Data ss:Type="String">outlet_20</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20-09-2023</Data></Cell>
+    <Cell><Data ss:Type="String">A1 Employeee</Data></Cell>
+    <Cell><Data ss:Type="String">emp_111</Data></Cell>
+    <Cell><Data ss:Type="String">E5</Data></Cell>
+    <Cell><Data ss:Type="String">dist_12347</Data></Cell>
+    <Cell><Data ss:Type="String">Mettur</Data></Cell>
+    <Cell><Data ss:Type="String">beat_125</Data></Cell>
+    <Cell><Data ss:Type="String">outlet_based</Data></Cell>
+    <Cell><Data ss:Type="String">Lovely Gifts</Data></Cell>
+    <Cell><Data ss:Type="String">outlet_21</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

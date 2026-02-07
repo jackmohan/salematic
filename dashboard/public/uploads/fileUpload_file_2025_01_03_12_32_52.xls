@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6930</WindowHeight>
+  <WindowWidth>20355</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#0066CC" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Excel_Item_Master_2025Jan03_115">
+  <Table ss:ExpandedColumnCount="37" ss:ExpandedRowCount="2" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="44.25"/>
+   <Column ss:Width="58.5"/>
+   <Column ss:Width="81"/>
+   <Column ss:Width="83.25"/>
+   <Column ss:Width="50.25"/>
+   <Column ss:Width="69.75"/>
+   <Column ss:Width="47.25"/>
+   <Column ss:Width="53.25"/>
+   <Column ss:Width="65.25"/>
+   <Column ss:Width="72.75"/>
+   <Column ss:Width="72"/>
+   <Column ss:Width="59.25"/>
+   <Column ss:Width="24"/>
+   <Column ss:Width="45"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="111"/>
+   <Column ss:Width="57"/>
+   <Column ss:Width="73.5"/>
+   <Column ss:Width="84"/>
+   <Column ss:Width="127.5"/>
+   <Column ss:Width="149.25"/>
+   <Column ss:Width="144.75"/>
+   <Column ss:Width="166.5"/>
+   <Column ss:Width="37.5"/>
+   <Column ss:Width="39.75"/>
+   <Column ss:Width="48.75"/>
+   <Column ss:Width="126"/>
+   <Column ss:Width="86.25"/>
+   <Column ss:Width="138"/>
+   <Column ss:Width="146.25"/>
+   <Column ss:Width="120"/>
+   <Column ss:Width="130.5"/>
+   <Column ss:Width="87"/>
+   <Column ss:Width="118.5"/>
+   <Column ss:Width="163.5"/>
+   <Column ss:Width="160.5"/>
+   <Column ss:Width="94.5"/>
+   <Row>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">serial_no</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">brand_name</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">product_category</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">product_sub_type</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">item_code</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">item_name</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">hsn_code</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">print_name</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">display_name</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">gst_percentage</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">purchase_price</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">selling_price</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">mrp</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">unit_type</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">package_type</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">no_of_units_in_package</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">weight_type</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">unit_net_weight</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">unit_gross_weight</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">sales_unit_type_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">sales_package_type_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">purchase_unit_type_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">purchase_package_type_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">self_life</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">barcode</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">sort_order</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">purchase_order_enable_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">return_allowed_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">claim_expiry_return_allow_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">claim_damage_return_allow_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">package_type_net_weight</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">package_type_gross_weight</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">display_item_code</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">category_price_range_ind</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">category_price_range_max_amount</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">category_price_range_min_amount</Data></Cell>
+    <Cell ss:StyleID="s62" class="  "><Data ss:Type="String">category_status_ind</Data></Cell>
+   </Row>
+   <Row>
+    <Cell class="  "><Data ss:Type="Number">1</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Amazon</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">chocolate</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Ambinent</Data></Cell>
+    <Cell class="  "><Data ss:Type="Number">8008</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">8product</Data></Cell>
+    <Cell class="  "><Data ss:Type="Number">410410</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">8product</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">8product</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">3.00</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">0.00</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">0.00</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">0.00</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Kg</Data></Cell>
+    <Cell class="  "><Data ss:Type="String"></Data></Cell>
+    <Cell class="  "><Data ss:Type="Number">1</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">Kg</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">15.000</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">17.000</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data></Cell>
+    <Cell class="  "><Data ss:Type="Number">1</Data></Cell>
+    <Cell class="  "><Data ss:Type="Number">1</Data></Cell>
+    <Cell class="  "><Data ss:Type="Number">1</Data></Cell>
+    <Cell class="  "><Data ss:Type="Number">1</Data></Cell>
+    <Cell class="  "><Data ss:Type="Number">2563</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">100</Data></Cell>
+    <Cell class="  "><Data ss:Type="Number">1</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">0.000</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">0.000</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">147</Data></Cell>
+    <Cell class="  "><Data ss:Type="Number">1</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">0.00</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">0.00</Data></Cell>
+    <Cell class="  "><Data ss:Type="String">1</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <LeftColumnVisible>1</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
+     <ActiveCol>14</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
