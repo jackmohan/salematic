@@ -1,5 +1,7 @@
+
 node_modules/
+node_modules_11/
+.env
 logs/
 *.log
-.env
 .pm2/
